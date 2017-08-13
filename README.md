@@ -1,1 +1,4 @@
-# cb_pip
+# pip
+
+TODO: Enter the cookbook description here.
+

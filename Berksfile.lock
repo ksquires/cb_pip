@@ -1,0 +1,7 @@
+DEPENDENCIES
+  pip
+    path: .
+    metadata: true
+
+GRAPH
+  pip (0.1.0)
