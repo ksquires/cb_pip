@@ -1,7 +1,11 @@
 DEPENDENCIES
+  my_yum_epel
+    path: ../cb_my_yum_epel
   pip
     path: .
     metadata: true
 
 GRAPH
+  my_yum_epel (0.2.1)
   pip (0.1.0)
+    my_yum_epel (>= 0.0.0)
